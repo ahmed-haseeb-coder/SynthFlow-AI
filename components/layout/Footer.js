@@ -1,4 +1,4 @@
-import Container from "@/components/ui/Container";
+ import Container from "@/components/ui/Container";
 import { SITE } from "@/lib/constants";
 
 export default function Footer() {
